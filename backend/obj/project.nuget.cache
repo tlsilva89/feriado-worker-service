@@ -1,0 +1,59 @@
+{
+  "version": 2,
+  "dgSpecHash": "YAxnO44t8gs=",
+  "success": true,
+  "projectFilePath": "/home/thiago/Documentos/feriado-work/backend/feriado.csproj",
+  "expectedPackageFiles": [
+    "/home/thiago/.nuget/packages/microsoft.entityframeworkcore/9.0.0-preview.1.24081.2/microsoft.entityframeworkcore.9.0.0-preview.1.24081.2.nupkg.sha512",
+    "/home/thiago/.nuget/packages/microsoft.entityframeworkcore.abstractions/9.0.0-preview.1.24081.2/microsoft.entityframeworkcore.abstractions.9.0.0-preview.1.24081.2.nupkg.sha512",
+    "/home/thiago/.nuget/packages/microsoft.entityframeworkcore.analyzers/9.0.0-preview.1.24081.2/microsoft.entityframeworkcore.analyzers.9.0.0-preview.1.24081.2.nupkg.sha512",
+    "/home/thiago/.nuget/packages/microsoft.entityframeworkcore.relational/9.0.0-preview.1.24081.2/microsoft.entityframeworkcore.relational.9.0.0-preview.1.24081.2.nupkg.sha512",
+    "/home/thiago/.nuget/packages/microsoft.extensions.caching.abstractions/9.0.0-preview.1.24080.9/microsoft.extensions.caching.abstractions.9.0.0-preview.1.24080.9.nupkg.sha512",
+    "/home/thiago/.nuget/packages/microsoft.extensions.caching.memory/9.0.0-preview.1.24080.9/microsoft.extensions.caching.memory.9.0.0-preview.1.24080.9.nupkg.sha512",
+    "/home/thiago/.nuget/packages/microsoft.extensions.configuration/10.0.0/microsoft.extensions.configuration.10.0.0.nupkg.sha512",
+    "/home/thiago/.nuget/packages/microsoft.extensions.configuration.abstractions/10.0.0/microsoft.extensions.configuration.abstractions.10.0.0.nupkg.sha512",
+    "/home/thiago/.nuget/packages/microsoft.extensions.configuration.binder/10.0.0/microsoft.extensions.configuration.binder.10.0.0.nupkg.sha512",
+    "/home/thiago/.nuget/packages/microsoft.extensions.configuration.commandline/10.0.0/microsoft.extensions.configuration.commandline.10.0.0.nupkg.sha512",
+    "/home/thiago/.nuget/packages/microsoft.extensions.configuration.environmentvariables/10.0.0/microsoft.extensions.configuration.environmentvariables.10.0.0.nupkg.sha512",
+    "/home/thiago/.nuget/packages/microsoft.extensions.configuration.fileextensions/10.0.0/microsoft.extensions.configuration.fileextensions.10.0.0.nupkg.sha512",
+    "/home/thiago/.nuget/packages/microsoft.extensions.configuration.json/10.0.0/microsoft.extensions.configuration.json.10.0.0.nupkg.sha512",
+    "/home/thiago/.nuget/packages/microsoft.extensions.configuration.usersecrets/10.0.0/microsoft.extensions.configuration.usersecrets.10.0.0.nupkg.sha512",
+    "/home/thiago/.nuget/packages/microsoft.extensions.dependencyinjection/10.0.0/microsoft.extensions.dependencyinjection.10.0.0.nupkg.sha512",
+    "/home/thiago/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.0/microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "/home/thiago/.nuget/packages/microsoft.extensions.diagnostics/10.0.0/microsoft.extensions.diagnostics.10.0.0.nupkg.sha512",
+    "/home/thiago/.nuget/packages/microsoft.extensions.diagnostics.abstractions/10.0.0/microsoft.extensions.diagnostics.abstractions.10.0.0.nupkg.sha512",
+    "/home/thiago/.nuget/packages/microsoft.extensions.fileproviders.abstractions/10.0.0/microsoft.extensions.fileproviders.abstractions.10.0.0.nupkg.sha512",
+    "/home/thiago/.nuget/packages/microsoft.extensions.fileproviders.physical/10.0.0/microsoft.extensions.fileproviders.physical.10.0.0.nupkg.sha512",
+    "/home/thiago/.nuget/packages/microsoft.extensions.filesystemglobbing/10.0.0/microsoft.extensions.filesystemglobbing.10.0.0.nupkg.sha512",
+    "/home/thiago/.nuget/packages/microsoft.extensions.hosting/10.0.0/microsoft.extensions.hosting.10.0.0.nupkg.sha512",
+    "/home/thiago/.nuget/packages/microsoft.extensions.hosting.abstractions/10.0.0/microsoft.extensions.hosting.abstractions.10.0.0.nupkg.sha512",
+    "/home/thiago/.nuget/packages/microsoft.extensions.http/10.0.0/microsoft.extensions.http.10.0.0.nupkg.sha512",
+    "/home/thiago/.nuget/packages/microsoft.extensions.logging/10.0.0/microsoft.extensions.logging.10.0.0.nupkg.sha512",
+    "/home/thiago/.nuget/packages/microsoft.extensions.logging.abstractions/10.0.0/microsoft.extensions.logging.abstractions.10.0.0.nupkg.sha512",
+    "/home/thiago/.nuget/packages/microsoft.extensions.logging.configuration/10.0.0/microsoft.extensions.logging.configuration.10.0.0.nupkg.sha512",
+    "/home/thiago/.nuget/packages/microsoft.extensions.logging.console/10.0.0/microsoft.extensions.logging.console.10.0.0.nupkg.sha512",
+    "/home/thiago/.nuget/packages/microsoft.extensions.logging.debug/10.0.0/microsoft.extensions.logging.debug.10.0.0.nupkg.sha512",
+    "/home/thiago/.nuget/packages/microsoft.extensions.logging.eventlog/10.0.0/microsoft.extensions.logging.eventlog.10.0.0.nupkg.sha512",
+    "/home/thiago/.nuget/packages/microsoft.extensions.logging.eventsource/10.0.0/microsoft.extensions.logging.eventsource.10.0.0.nupkg.sha512",
+    "/home/thiago/.nuget/packages/microsoft.extensions.options/10.0.0/microsoft.extensions.options.10.0.0.nupkg.sha512",
+    "/home/thiago/.nuget/packages/microsoft.extensions.options.configurationextensions/10.0.0/microsoft.extensions.options.configurationextensions.10.0.0.nupkg.sha512",
+    "/home/thiago/.nuget/packages/microsoft.extensions.primitives/10.0.0/microsoft.extensions.primitives.10.0.0.nupkg.sha512",
+    "/home/thiago/.nuget/packages/mysqlconnector/2.3.5/mysqlconnector.2.3.5.nupkg.sha512",
+    "/home/thiago/.nuget/packages/pomelo.entityframeworkcore.mysql/9.0.0-preview.1/pomelo.entityframeworkcore.mysql.9.0.0-preview.1.nupkg.sha512",
+    "/home/thiago/.nuget/packages/system.diagnostics.eventlog/10.0.0/system.diagnostics.eventlog.10.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.Extensions.Caching.Memory' 9.0.0-preview.1.24080.9 has a known high severity vulnerability, https://github.com/advisories/GHSA-qj66-m88j-hmgj",
+      "projectPath": "/home/thiago/Documentos/feriado-work/backend/feriado.csproj",
+      "warningLevel": 1,
+      "filePath": "/home/thiago/Documentos/feriado-work/backend/feriado.csproj",
+      "libraryId": "Microsoft.Extensions.Caching.Memory",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
