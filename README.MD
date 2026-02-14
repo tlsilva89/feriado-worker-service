@@ -25,6 +25,27 @@ O serviço consulta periodicamente a API pública [Nager.Date](https://date.nage
 
 ---
 
+## 🔄 Fluxo de Execução
+```mermaid
+graph TD
+    A[Start Application] --> B[Inicializa DI e Configurações]
+    B --> C{Worker Loop}
+    C -->|Acorda| D[Chama HolidayService]
+    D -->|GET Request| E[API Nager.Date]
+    E -->|Retorna JSON| D
+    D -->|Filtra Nacionais + SP| F[Lista de Datas]
+    F --> G[Abre Escopo do Banco MySQL]
+    G --> H{Data já existe no Banco?}
+    H -- Sim --> I[Ignora]
+    H -- Não --> J[Adiciona para Inserção]
+    J --> K[SaveChanges - Commit]
+    K --> L[Log: X novos feriados]
+    L --> M[Dorme por 24 horas]
+    M --> C
+```
+
+---
+
 ## 🛠️ Configuração e Instalação
 
 ### 1. Subir o Banco de Dados (Docker)

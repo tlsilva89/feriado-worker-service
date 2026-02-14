@@ -54,3 +54,4 @@
 /home/thiago/Documentos/feriado-work/backend/obj/Debug/net10.0/feriado.pdb
 /home/thiago/Documentos/feriado-work/backend/obj/Debug/net10.0/feriado.genruntimeconfig.cache
 /home/thiago/Documentos/feriado-work/backend/obj/Debug/net10.0/ref/feriado.dll
+/home/thiago/Documentos/feriado-work/backend/obj/Debug/net10.0/feriado.sourcelink.json

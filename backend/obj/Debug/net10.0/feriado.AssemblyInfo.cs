@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("feriado")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44353a46196958f5434f8642935fdf5ff7bdd015")]
 [assembly: System.Reflection.AssemblyProductAttribute("feriado")]
 [assembly: System.Reflection.AssemblyTitleAttribute("feriado")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
